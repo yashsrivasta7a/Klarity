@@ -1,0 +1,29 @@
+{
+  "name": "klarity-ai",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "type": "module",
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@langchain/community": "^0.3.49",
+    "@langchain/core": "^0.3.66",
+    "@langchain/langgraph": "^0.4.2",
+    "@langchain/openai": "^0.6.3",
+    "body-parser": "^2.2.0",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.1",
+    "dotnet": "^1.1.4",
+    "express": "^5.1.0",
+    "langchain": "^0.3.30",
+    "mysql": "^2.18.1",
+    "mysql2": "^3.14.3",
+    "typeorm": "^0.3.25",
+    "zod": "^3.25.76"
+  }
+}
